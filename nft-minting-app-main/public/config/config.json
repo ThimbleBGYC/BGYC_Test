@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD1364c8BE90ca37c8020892b34684192788D7AC4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x422638122ace72383dcf726b77273b9a4762094ec7df05b85a8b2dcde7c63ad5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Board Game Yawn Club",
+  "SYMBOL": "Game Piece",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/board-game-yawn-club-jkxdaxr4yp",
+  "SHOW_BACKGROUND": true
+}
